@@ -103,3 +103,8 @@ Based on the findings, the following actions could be considered:
 - **Monitor profitability alongside revenue growth:** Sales and profit increased substantially over the analysis period, but profit margin did not increase continuously. Future performance monitoring should therefore consider margin alongside revenue and absolute profit.
 
 - **Explore segment profitability drivers:** Home Office achieved the highest profit margin despite being the smallest segment by sales. Its product mix, purchasing patterns, and discount behavior could be examined to identify practices that may also improve profitability in the larger Consumer segment.
+
+## Project Files
+
+- `Superstore_Sales_Profitability_Analysis.xlsx` — Complete Excel workbook containing the cleaned dataset, PivotTable analysis, calculations, and final dashboard.
+- `dashboard.png` — Preview of the final Excel dashboard.
