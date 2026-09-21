@@ -56,7 +56,7 @@ Key cleaning and validation steps included:
 - Orders with discounts up to 20% remained profitable overall.
 - Every observed discount level of **30% or higher** produced a negative overall profit margin.
 - At the highest discount level of 80%, the profit margin reached approximately **-180%**.
-- This suggests that aggressive discounting may be contributing substantially to profitability losses.
+- This suggests that aggressive discounting may be contributing to lower profitability.
 
 ### 3. Furniture Profitability
 - Furniture generated approximately **$741.7K in sales**, but only **$18.5K in profit**.
