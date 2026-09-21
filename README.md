@@ -45,3 +45,37 @@ Key cleaning and validation steps included:
 - Created a Shipping Days field from Ship Date and Order Date and confirmed that shipping times ranged from 0 to 7 days with no negative values.
 - Investigated potential sales outliers using the IQR method rather than automatically removing them.
 - Retained valid high-value transactions after confirming that they represented plausible business records rather than data-entry errors.
+
+## Key Findings
+
+### 1. Overall Performance
+- Total sales reached approximately **$2.30M**, generating **$286.4K in profit**.
+- The overall profit margin was **12.47%**.
+
+### 2. Discount Levels and Profitability
+- Orders with discounts up to 20% remained profitable overall.
+- Every observed discount level of **30% or higher** produced a negative overall profit margin.
+- At the highest discount level of 80%, the profit margin reached approximately **-180%**.
+- This suggests that aggressive discounting may be contributing substantially to profitability losses.
+
+### 3. Furniture Profitability
+- Furniture generated approximately **$741.7K in sales**, but only **$18.5K in profit**.
+- Tables generated a **$17.7K loss**, making them the largest profitability concern within Furniture.
+- Bookcases also generated a loss of approximately **$3.5K**.
+- Four table products appeared among the ten largest loss-making products, reinforcing the broader profitability issue within the Tables sub-category.
+
+### 4. Regional Performance
+- West generated the highest sales (**$725.5K**) and profit (**$108.4K**), with a profit margin of **14.94%**.
+- Central recorded the lowest regional profit margin at **7.92%**, despite generating more than **$501K in sales**.
+- Losses in Central were spread across multiple sub-categories rather than being driven by a single product group.
+
+### 5. Sales Trends and Seasonality
+- Sales increased overall from approximately **$484K in 2013** to **$734K in 2016**.
+- Profit increased from approximately **$49.5K to $93.5K** over the same period.
+- Profit margin peaked at **13.43% in 2015** before declining slightly to **12.74% in 2016**.
+- Aggregated monthly results showed stronger sales activity toward the end of the year, with November generating the highest cumulative sales and December the highest cumulative profit.
+
+### 6. Customer Segments
+- Consumer was the largest segment, generating approximately **$1.16M in sales** and **$134K in profit**.
+- However, Home Office achieved the highest profit margin at **14.04%**, compared with **13.02% for Corporate** and **11.55% for Consumer**.
+- The largest segment by revenue was therefore not the most profitable proportionally.
