@@ -87,3 +87,19 @@ The final Excel dashboard summarizes the key findings of the analysis through th
 It highlights overall sales and profitability, monthly sales trends, regional performance, the relationship between discount levels and profit margins, and profitability across Furniture sub-categories.
 
 ![Superstore Sales & Profitability Dashboard](dashboard.png)
+
+## Business Recommendations
+
+Based on the findings, the following actions could be considered:
+
+- **Review high discount levels:** Discounts of 30% or higher were consistently associated with negative overall profit margins. The business could review its discount strategy and assess whether approval thresholds or discount limits may help protect profitability.
+
+- **Investigate the Tables sub-category:** Tables generated a $17.7K loss and several table products appeared among the largest loss-making products. Pricing, discount levels, product costs, and individual transactions within this sub-category should be reviewed.
+
+- **Examine Central region profitability:** Central generated substantial sales but recorded the lowest regional profit margin at 7.92%. Product mix, pricing, and discount patterns could be investigated to understand why sales convert into profit less efficiently in this region.
+
+- **Plan around observed seasonality:** Sales activity was stronger toward the end of the year, particularly in September, November, and December. This pattern could support inventory, staffing, and promotional planning, while slower January–February demand may warrant further investigation.
+
+- **Monitor profitability alongside revenue growth:** Sales and profit increased substantially over the analysis period, but profit margin did not increase continuously. Future performance monitoring should therefore consider margin alongside revenue and absolute profit.
+
+- **Explore segment profitability drivers:** Home Office achieved the highest profit margin despite being the smallest segment by sales. Its product mix, purchasing patterns, and discount behavior could be examined to identify practices that may also improve profitability in the larger Consumer segment.
