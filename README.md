@@ -79,3 +79,11 @@ Key cleaning and validation steps included:
 - Consumer was the largest segment, generating approximately **$1.16M in sales** and **$134K in profit**.
 - However, Home Office achieved the highest profit margin at **14.04%**, compared with **13.02% for Corporate** and **11.55% for Consumer**.
 - The largest segment by revenue was therefore not the most profitable proportionally.
+
+## Dashboard
+
+The final Excel dashboard summarizes the key findings of the analysis through three KPI cards and four focused visualizations.
+
+It highlights overall sales and profitability, monthly sales trends, regional performance, the relationship between discount levels and profit margins, and profitability across Furniture sub-categories.
+
+![Superstore Sales & Profitability Dashboard](dashboard.png)
