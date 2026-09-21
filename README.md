@@ -15,3 +15,16 @@ The project covers the full analytics workflow, including data cleaning, explora
 - PivotTables
 - PivotCharts and standard charts
 - Excel formulas and calculated metrics
+
+## Business Questions
+
+The analysis focused on the following business questions:
+
+1. Which product categories generate the most sales and profit?
+2. Which sub-categories are driving Furniture's low profitability?
+3. How do discount levels relate to profitability?
+4. How does sales and profitability performance differ across regions?
+5. Which individual products are the strongest and weakest performers?
+6. How have sales and profit changed over time?
+7. Are there observable seasonal patterns in monthly sales?
+8. Which customer segments generate the most sales and which achieve the highest profit margins?
