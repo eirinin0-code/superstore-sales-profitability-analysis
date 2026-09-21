@@ -28,3 +28,20 @@ The analysis focused on the following business questions:
 6. How have sales and profit changed over time?
 7. Are there observable seasonal patterns in monthly sales?
 8. Which customer segments generate the most sales and which achieve the highest profit margins?
+
+## Data Cleaning & Preparation
+
+Before beginning the analysis, the dataset was reviewed and prepared in Excel to ensure that the key fields were suitable for analysis.
+
+Key cleaning and validation steps included:
+
+- Converted the dataset into an Excel Table for structured analysis.
+- Checked key analytical fields for missing values, including Order Date, Sales, Quantity, Discount, Profit, Category, Sub-Category, and Region.
+- Identified and removed one duplicate record, resulting in 9,993 records for analysis.
+- Verified that Order Date and Ship Date were recognized as valid date fields.
+- Validated Quantity and Discount values and checked for invalid or unexpected values.
+- Identified that the original Sales and Profit columns were stored as text because they contained currency symbols and thousands separators.
+- Created numeric Sales and Profit fields using Excel formulas so that the values could be used correctly in calculations and PivotTables.
+- Created a Shipping Days field from Ship Date and Order Date and confirmed that shipping times ranged from 0 to 7 days with no negative values.
+- Investigated potential sales outliers using the IQR method rather than automatically removing them.
+- Retained valid high-value transactions after confirming that they represented plausible business records rather than data-entry errors.
